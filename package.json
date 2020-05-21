@@ -1,0 +1,30 @@
+{
+  "author": "Bamdad Sabbagh",
+  "license": "Apache-2.0",
+  "name": "@bamdadsabbagh/stylelint-config",
+  "version": "1.0.0",
+  "description": "Bamdad Sabbagh's stylelint config",
+  "keywords": [
+    "bamdadsabbagh",
+    "stylelint"
+  ],
+  "repository": "github:bamdadsabbagh/stylelint-config-bamdadsabbagh",
+  "files": [
+    "config.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint": "^13.5.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.5.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
+  }
+}
