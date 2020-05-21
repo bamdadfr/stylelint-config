@@ -2,7 +2,7 @@
   "author": "Bamdad Sabbagh",
   "license": "Apache-2.0",
   "name": "@bamdadsabbagh/stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bamdad Sabbagh's stylelint config",
   "keywords": [
     "bamdadsabbagh",
@@ -10,7 +10,7 @@
   ],
   "repository": "github:bamdadsabbagh/stylelint-config-bamdadsabbagh",
   "files": [
-    "config.js"
+    "index.js"
   ],
   "dependencies": {
     "stylelint": "^13.5.0",
