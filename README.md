@@ -1,6 +1,12 @@
 # stylelint-config-bamdadsabbagh
 
+## Vendor
+
 > [stylelint](https://www.stylelint.io/) config.
+
+## npm
+
+> [npm](https://www.npmjs.com/package/@bamdadsabbagh/stylelint-config) package.
 
 ## Installation
 
@@ -14,8 +20,8 @@ yarn add --dev @bamdadsabbagh/stylelint-config
 
 ```json
 {
-  "extends": ["@bamdadsabbagh/stylelint-config"]
+  "extends": [ "@bamdadsabbagh/stylelint-config" ]
 }
 ```
 
-It will automatically handle `*.(js|jsx|ts|tsx)` files.
+It will automatically handle `styled-components` files.
