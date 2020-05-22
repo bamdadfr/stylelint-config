@@ -8,7 +8,7 @@
     "bamdadsabbagh",
     "stylelint"
   ],
-  "repository": "github:bamdadsabbagh/stylelint-config-bamdadsabbagh",
+  "repository": "github:bamdadsabbagh/stylelint-config",
   "files": [
     "index.js"
   ],
