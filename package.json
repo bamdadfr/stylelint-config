@@ -1,6 +1,6 @@
 {
-  "author": "Bamdad Sabbagh",
-  "license": "Apache-2.0",
+  "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
+  "license": "MIT",
   "name": "@bamdadsabbagh/stylelint-config",
   "version": "1.0.6",
   "description": "Bamdad Sabbagh's stylelint config",
