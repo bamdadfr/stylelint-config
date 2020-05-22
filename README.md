@@ -1,4 +1,4 @@
-# stylelint-config-bamdadsabbagh
+# Bamdad Sabbagh's stylelint config
 
 ## Vendor
 
@@ -20,7 +20,7 @@ yarn add --dev @bamdadsabbagh/stylelint-config
 
 ```json
 {
-  "extends": [ "@bamdadsabbagh/stylelint-config" ]
+  "extends": "@bamdadsabbagh/stylelint-config"
 }
 ```
 
