@@ -2,7 +2,7 @@
   "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
   "license": "MIT",
   "name": "@bamdadsabbagh/stylelint-config",
-  "version": "1.0.6",
+  "version": "1.1.1",
   "description": "Bamdad Sabbagh's stylelint config",
   "keywords": [
     "bamdadsabbagh",
