@@ -13,7 +13,7 @@
     "index.js"
   ],
   "dependencies": {
-    "snyk": "^1.352.0",
+    "snyk": "^1.352.1",
     "stylelint": "^13.5.0",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-recommended": "^3.0.0",
