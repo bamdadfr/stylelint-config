@@ -1,6 +1,4 @@
 {
-  "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
-  "license": "MIT",
   "name": "@bamdadsabbagh/stylelint-config",
   "version": "1.2.13",
   "description": "Bamdad Sabbagh's stylelint config",
@@ -9,20 +7,19 @@
     "stylelint"
   ],
   "repository": "github:bamdadsabbagh/stylelint-config",
+  "license": "MIT",
+  "author": "Bamdad Sabbagh <hello@bamdadsabbagh.com>",
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "sort:package": "npx sort-package-json"
+  },
   "dependencies": {
-    "snyk": "^1.361.3",
     "stylelint": "^13.5.0",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0"
-  },
-  "scripts": {
-    "snyk-protect": "snyk protect",
-    "prepare": "yarn run snyk-protect"
-  },
-  "snyk": true
+  }
 }
