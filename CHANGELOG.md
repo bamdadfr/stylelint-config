@@ -1,3 +1,12 @@
+## [1.2.28](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.27...v1.2.28) (2020-07-26)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0*100 ([80ec3f4](https://github.com/bamdadsabbagh/stylelint-config/commit/80ec3f4ec8df4279d73d2803ad6f9796b7e3bd2c))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([3b29f08](https://github.com/bamdadsabbagh/stylelint-config/commit/3b29f0841df8cd26f2376f358fb2e285507d3e08))
+* asfalte: ⚙️ yarn-upgrade__0*100 ([c2ce0d2](https://github.com/bamdadsabbagh/stylelint-config/commit/c2ce0d29ffa1e13ad04e2f80223a9125bc98b2c1))
+
 ## [1.2.27](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.26...v1.2.27) (2020-07-25)
 
 
