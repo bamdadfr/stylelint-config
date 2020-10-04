@@ -1,3 +1,10 @@
+## [1.2.82](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.81...v1.2.82) (2020-10-04)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade__0x100 ([30de66b](https://github.com/bamdadsabbagh/stylelint-config/commit/30de66b9a43be35a5ba70806804f13520df4d9b7))
+
 ## [1.2.81](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.80...v1.2.81) (2020-10-03)
 
 
