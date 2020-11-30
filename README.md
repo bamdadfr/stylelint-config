@@ -15,6 +15,12 @@
     <img src="https://img.shields.io/snyk/vulnerabilities/github/bamdadsabbagh/stylelint-config">
 </p>
 
+<p align=center>
+    <img src="https://img.shields.io/npm/v/@bamdadsabbagh/stylelint-config">
+    <img src="https://img.shields.io/npm/dw/@bamdadsabbagh/stylelint-config">
+    <img src="https://img.shields.io/npm/dm/@bamdadsabbagh/stylelint-config">
+</p>
+
 ## Vendor
 
 > [stylelint](https://www.stylelint.io/) config.
