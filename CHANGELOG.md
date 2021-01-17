@@ -1,3 +1,10 @@
+## [1.2.162](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.161...v1.2.162) (2021-01-17)
+
+
+### Bug Fixes
+
+* updated workflows + updated packages ([35a7a6f](https://github.com/bamdadsabbagh/stylelint-config/commit/35a7a6f10a7259cf0d47144428b73c65e8abfe2a))
+
 ## [1.2.161](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.160...v1.2.161) (2021-01-16)
 
 
