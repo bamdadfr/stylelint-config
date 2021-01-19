@@ -1,3 +1,11 @@
+## [1.2.164](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.163...v1.2.164) (2021-01-19)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--0x100 ([48d4876](https://github.com/bamdadsabbagh/stylelint-config/commit/48d48763b77ca24fc40baded5bf58d713b0e7798))
+* asfalte: ⚙️ yarn-upgrade--0x100 ([9724976](https://github.com/bamdadsabbagh/stylelint-config/commit/972497645c666e456844a6be8969a78176ee3a98))
+
 ## [1.2.163](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.162...v1.2.163) (2021-01-18)
 
 
