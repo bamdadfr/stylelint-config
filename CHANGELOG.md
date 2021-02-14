@@ -1,3 +1,10 @@
+## [1.2.186](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.185...v1.2.186) (2021-02-14)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([73142c3](https://github.com/bamdadsabbagh/stylelint-config/commit/73142c3f37bd75561602377c4a2def0a870b4273))
+
 ## [1.2.185](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.184...v1.2.185) (2021-02-14)
 
 
