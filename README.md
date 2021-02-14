@@ -1,4 +1,4 @@
-#
+# stylelint-config
 
 <p align=center>
     Bamdad Sabbagh's stylelint config
@@ -41,7 +41,7 @@ yarn add --dev @bamdadsabbagh/stylelint-config
 
 ```json
 {
-  "extends": "@bamdadsabbagh/stylelint-config"
+    "extends": "@bamdadsabbagh/stylelint-config"
 }
 ```
 
