@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.191...v1.3.0) (2021-03-25)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release--onPush ([134bf38](https://github.com/bamdadsabbagh/stylelint-config/commit/134bf3858a32ddd9b363d8a49536440f8a1a893d))
+
+
+### Features
+
+* **rules:** more flexible ([f073fc3](https://github.com/bamdadsabbagh/stylelint-config/commit/f073fc3bea6870f5607f3f78e225ccfbe5f76d03))
+
 ## [1.2.191](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.2.190...v1.2.191) (2021-03-22)
 
 
