@@ -1,3 +1,11 @@
+## [1.3.27](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.3.26...v1.3.27) (2021-09-20)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0800 ([aff406c](https://github.com/bamdadsabbagh/stylelint-config/commit/aff406cea831bc9fba4cfad20c78c5660b1a4ab7))
+* **release:** update ci workflows + rename config file + add eslint ([c0f4c41](https://github.com/bamdadsabbagh/stylelint-config/commit/c0f4c41299d842ad3f0572024ec1f3ef2e7d4cb4))
+
 ## [1.3.26](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.3.25...v1.3.26) (2021-09-13)
 
 
