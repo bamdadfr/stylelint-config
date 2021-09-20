@@ -1,11 +1,12 @@
-name: semantic-release-yarn--onMondays-0830
+name: semantic-release-yarn--onPush
 
 on:
-  schedule:
-    - cron: '30 8 * * 1' # every monday at 0830
+  push:
+    branches:
+      - master
 
 jobs:
-  semantic-release-yarn--onMondays-0830:
+  semantic-release-yarn--onPush:
     runs-on: ubuntu-latest
     steps:
 
