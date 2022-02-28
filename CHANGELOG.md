@@ -1,3 +1,10 @@
+## [1.3.50](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.3.49...v1.3.50) (2022-02-28)
+
+
+### Bug Fixes
+
+* asfalte: ⚙️ yarn-upgrade--onMondays-0800 ([e842688](https://github.com/bamdadsabbagh/stylelint-config/commit/e842688ea98a28274eeaef901005c7e3ca4c6883))
+
 ## [1.3.49](https://github.com/bamdadsabbagh/stylelint-config/compare/v1.3.48...v1.3.49) (2022-02-21)
 
 
