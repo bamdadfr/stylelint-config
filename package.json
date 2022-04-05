@@ -23,6 +23,6 @@
     "stylelint-processor-styled-components": "^1.10.0"
   },
   "devDependencies": {
-    "@bamdadsabbagh/eslint-config": "^1.16.6"
+    "@bamdadsabbagh/eslint-config": "^2.0.22"
   }
 }
